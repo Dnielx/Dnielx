@@ -11,7 +11,7 @@ Atualmente, estou focado em construir uma base sólida na prática, desenvolvend
 
 ---
 
-### 📫 Certificados 
+### 📖 Certificados 
 ---
 <p align="left">
   <a href="https://drive.google.com/file/d/12T98hd1jI1ewWl4_Atiu8KHpbL9Xq06I/view?usp=drivesdk" target="_blank">
