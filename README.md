@@ -11,7 +11,7 @@ Atualmente, estou focado em construir uma base sólida na prática, desenvolvend
 
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&labelColor=004182&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
