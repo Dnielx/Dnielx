@@ -20,13 +20,13 @@ Atualmente, estou focado em construir uma base sólida na prática, desenvolvend
 ### 🚀 Em Andamento
 ---
 <p align="left">
-  <img src="https://img.shields.io/badge/Data%20Science%20Academy-Python%20para%20IA%20(96h)-0056D2?style=for-the-badge&labelColor=003B8E&logo=python&logoColor=white" alt="Data Science Academy - Python para IA (96h)" />
+  <a href="#"><img src="https://img.shields.io/badge/Data%20Science%20Academy-Python%20para%20IA%20(96h)-0056D2?style=for-the-badge&labelColor=003B8E&logo=python&logoColor=white" alt="Data Science Academy - Python para IA (96h)" /></a>
   <br>
-  <img src="https://img.shields.io/badge/Coddy.tech-SQL%20Pr%C3%A1tico-10B981?style=for-the-badge&labelColor=059669&logo=postgresql&logoColor=white" alt="Coddy.tech - SQL Prático" />
+  <a href="#"><img src="https://img.shields.io/badge/Coddy.tech-SQL%20Pr%C3%A1tico-10B981?style=for-the-badge&labelColor=059669&logo=postgresql&logoColor=white" alt="Coddy.tech - SQL Prático" /></a>
   <br>
-  <img src="https://img.shields.io/badge/UC%20Davis%20%7C%20Coursera-SQL%20for%20Data%20Science-0056D2?style=for-the-badge&labelColor=003E99&logo=coursera&logoColor=white" alt="UC Davis | Coursera - SQL for Data Science" />
+  <a href="#"><img src="https://img.shields.io/badge/UC%20Davis%20%7C%20Coursera-SQL%20for%20Data%20Science-0056D2?style=for-the-badge&labelColor=003E99&logo=coursera&logoColor=white" alt="UC Davis | Coursera - SQL for Data Science" /></a>
   <br>
-  <img src="https://img.shields.io/badge/DeepLearning.AI%20%7C%20Stanford-Machine%20Learning%20%26%20Deep%20Learning-F63366?style=for-the-badge&labelColor=C81E4B&logo=tensorflow&logoColor=white" alt="DeepLearning.AI | Stanford - Machine Learning & Deep Learning" />
+  <a href="#"><img src="https://img.shields.io/badge/DeepLearning.AI%20%7C%20Stanford-Machine%20Learning%20%26%20Deep%20Learning-F63366?style=for-the-badge&labelColor=C81E4B&logo=tensorflow&logoColor=white" alt="DeepLearning.AI | Stanford - Machine Learning & Deep Learning" /></a>
 </p>
 
 ---
