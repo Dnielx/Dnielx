@@ -9,6 +9,12 @@ Atualmente, estou focado em construir uma base sólida na prática, desenvolvend
 - 🛠️ **Ferramentas:** Python, SQL, Jupyter Notebooks, VS Code e Git/GitHub.
 - 🎯 **Objetivo:** Desenvolver soluções reais orientadas a dados e atuar como Especialista em IA.
 
+## 📊 GitHub Stats & Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dnielx&show_icons=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=38bdf8&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub de Daniel" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnielx&layout=compact&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&hide_border=true&langs_count=6" alt="Linguagens mais usadas" height="165" />
+</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
